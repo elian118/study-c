@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\ex_file_control\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5000357F-2C76-49E1-8FF0-59EB44E1BF8B}|ex_file_control\\ex_file_control.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\ex_file_control\\ex_file_control\\ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5000357F-2C76-49E1-8FF0-59EB44E1BF8B}|ex_file_control\\ex_file_control.vcxproj|solutionrelative:ex_file_control\\ex.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ex.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\ex_file_control\\ex_file_control\\ex.c",
+              "RelativeDocumentMoniker": "ex_file_control\\ex.c",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\ex_file_control\\ex_file_control\\ex.c",
+              "RelativeToolTip": "ex_file_control\\ex.c",
+              "ViewState": "AgIAALcAAAAAAAAAAAAhwMwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-22T07:38:46.754Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

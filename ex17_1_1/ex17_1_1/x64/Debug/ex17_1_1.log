@@ -1,0 +1,18 @@
+﻿  main.c
+C:\Users\USER\Desktop\hancom\ex17_1_1\ex17_1_1\main.c(34,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\USER\Desktop\hancom\ex17_1_1\ex17_1_1\main.c(34,12):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\USER\Desktop\hancom\ex17_1_1\ex17_1_1\main.c(35,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\USER\Desktop\hancom\ex17_1_1\ex17_1_1\main.c(35,12):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\USER\Desktop\hancom\ex17_1_1\ex17_1_1\main.c(36,12): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\USER\Desktop\hancom\ex17_1_1\ex17_1_1\main.c(36,12):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\USER\Desktop\hancom\ex17_1_1\ex17_1_1\main.c(38,20): warning C4311: '형식 캐스트': 'signed char (*)[3]'에서 'unsigned int'(으)로 포인터가 잘립니다.
+C:\Users\USER\Desktop\hancom\ex17_1_1\ex17_1_1\main.c(39,20): warning C4311: '형식 캐스트': 'int *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+C:\Users\USER\Desktop\hancom\ex17_1_1\ex17_1_1\main.c(40,20): warning C4311: '형식 캐스트': 'int *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+C:\Users\USER\Desktop\hancom\ex17_1_1\ex17_1_1\main.c(41,20): warning C4311: '형식 캐스트': 'signed char *'에서 'unsigned int'(으)로 포인터가 잘립니다.
+  ex17_1_1.vcxproj -> C:\Users\USER\Desktop\hancom\ex17_1_1\x64\Debug\ex17_1_1.exe

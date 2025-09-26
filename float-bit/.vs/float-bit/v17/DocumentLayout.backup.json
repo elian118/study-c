@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\float-bit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3D51B2C-C70A-4FCD-8275-1102E35ED964}|float-bit\\float-bit.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\float-bit\\float-bit\\float-bit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D3D51B2C-C70A-4FCD-8275-1102E35ED964}|float-bit\\float-bit.vcxproj|solutionrelative:float-bit\\float-bit.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "float-bit.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\float-bit\\float-bit\\float-bit.c",
+              "RelativeDocumentMoniker": "float-bit\\float-bit.c",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\float-bit\\float-bit\\float-bit.c",
+              "RelativeToolTip": "float-bit\\float-bit.c",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvycAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-16T00:30:55.234Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

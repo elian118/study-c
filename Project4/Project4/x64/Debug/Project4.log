@@ -1,0 +1,7 @@
+﻿  03_01.c
+C:\Users\USER\Desktop\2025 07 07 version c 수업자료\004-디버거 사용법\static\win 버젼\03_01.c(15,8): warning C4013: 'reset'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\Desktop\2025 07 07 version c 수업자료\004-디버거 사용법\static\win 버젼\03_01.c(18,10): warning C4013: 'inc_i'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\Desktop\2025 07 07 version c 수업자료\004-디버거 사용법\static\win 버젼\03_01.c(18,19): warning C4013: 'new'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\Desktop\2025 07 07 version c 수업자료\004-디버거 사용법\static\win 버젼\03_01.c(20,8): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\USER\Desktop\2025 07 07 version c 수업자료\004-디버거 사용법\static\win 버젼\03_01.c(22,2): warning C4013: 'exit'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project4.vcxproj -> C:\Users\USER\Desktop\hancom\Project4\x64\Debug\Project4.exe

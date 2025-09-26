@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\ex18_7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15D9DCFB-D7EF-4846-A42C-32289F0ACC1B}|ex18_7\\ex18_7.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\ex18_7\\ex18_7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{15D9DCFB-D7EF-4846-A42C-32289F0ACC1B}|ex18_7\\ex18_7.vcxproj|solutionrelative:ex18_7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\USER\\Desktop\\source\\18\uC7A5\\18-7\\\uC608\uC81C18-7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stdio.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.26100.0\\ucrt\\stdio.h",
+              "ViewState": "AgIAAHECAAAAAAAAAAAWwIUCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-23T01:33:11.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "\uC608\uC81C18-7.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\source\\18\uC7A5\\18-7\\\uC608\uC81C18-7.c",
+              "RelativeDocumentMoniker": "..\\..\\source\\18\uC7A5\\18-7\\\uC608\uC81C18-7.c",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\source\\18\uC7A5\\18-7\\\uC608\uC81C18-7.c",
+              "RelativeToolTip": "..\\..\\source\\18\uC7A5\\18-7\\\uC608\uC81C18-7.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-23T01:16:21.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\ex18_7\\ex18_7\\main.c",
+              "RelativeDocumentMoniker": "ex18_7\\main.c",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\ex18_7\\ex18_7\\main.c",
+              "RelativeToolTip": "ex18_7\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-23T01:05:49.388Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

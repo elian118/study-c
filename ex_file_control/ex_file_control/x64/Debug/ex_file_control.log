@@ -1,0 +1,3 @@
+﻿  ex.c
+C:\Users\USER\Desktop\hancom\ex_file_control\ex_file_control\ex.c(46,6): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  ex_file_control.vcxproj -> C:\Users\USER\Desktop\hancom\ex_file_control\x64\Debug\ex_file_control.exe

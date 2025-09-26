@@ -1,0 +1,16 @@
+﻿  float-bit.c
+C:\Users\USER\Desktop\hancom\float-bit\float-bit\float-bit.c(16,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\USER\Desktop\hancom\float-bit\float-bit\float-bit.c(16,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\USER\Desktop\hancom\float-bit\float-bit\float-bit.c(17,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\USER\Desktop\hancom\float-bit\float-bit\float-bit.c(17,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\USER\Desktop\hancom\float-bit\float-bit\float-bit.c(18,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+      C:\Users\USER\Desktop\hancom\float-bit\float-bit\float-bit.c(18,9):
+      서식 문자열에서 '%zd'을(를) 사용하는 것이 좋습니다.
+  
+C:\Users\USER\Desktop\hancom\float-bit\float-bit\float-bit.c(25,8): warning C4133: '=': 'float *'과(와) 'unsigned int *' 사이의 형식이 호환되지 않습니다.
+C:\Users\USER\Desktop\hancom\float-bit\float-bit\float-bit.c(20,56): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  float-bit.vcxproj -> C:\Users\USER\Desktop\hancom\float-bit\x64\Debug\float-bit.exe

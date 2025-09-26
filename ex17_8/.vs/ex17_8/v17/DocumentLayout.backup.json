@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\hancom\\ex17_8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E86097CB-1C4D-4116-95F5-BD22120DEB20}|ex17_8\\ex17_8.vcxproj|C:\\Users\\USER\\Desktop\\hancom\\ex17_8\\ex17_8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E86097CB-1C4D-4116-95F5-BD22120DEB20}|ex17_8\\ex17_8.vcxproj|solutionrelative:ex17_8\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\hancom\\ex17_8\\ex17_8\\main.c",
+              "RelativeDocumentMoniker": "ex17_8\\main.c",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\hancom\\ex17_8\\ex17_8\\main.c",
+              "RelativeToolTip": "ex17_8\\main.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-09-22T06:38:56.426Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

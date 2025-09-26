@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\USER\Desktop\hancom\ex18_6\ex18_6\main.c(8,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\USER\Desktop\hancom\ex18_6\ex18_6\main.c(14,7): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  ex18_6.vcxproj -> C:\Users\USER\Desktop\hancom\ex18_6\x64\Debug\ex18_6.exe
